@@ -14,9 +14,9 @@ I am a MASc. Graduate from the Ryerson University. I have a background in Civil 
 - `C++`
 - `C#`
 - `MATLAB`
+- `VBA`
 
 ## Other Programs
-- `VBA`
 - `Microsoft Office`
 - `AutoCAD`
 - `SAP2000`
