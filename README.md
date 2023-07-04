@@ -3,13 +3,14 @@ I am a MASc. Graduate from the Ryerson University. I have a background in Civil 
 
 # Programs and Languages
 ## Programming Languages
-- `HTML`
-- `CSS`
 - `JavaScript`
 - `Node.js`
 - `Express.js`
-- `MySQL`
 - `React.js`
+- `HTML`
+- `CSS`
+- `MySQL`
+- `MongoDB`
 - `Python`
 - `C++`
 - `C#`
