@@ -27,12 +27,12 @@ I am a MASc. Graduate from the Ryerson University. I have a background in Civil 
 - `SketchUp`
 
 # Contact
-- You can reach me via:
-Email: morad97mm@gmail.com
-Phone: +1 (416) 858- 1606
+- You can reach me using:
+  -- <a href="mailto:morad97mm@gmail.com">MyEmail</a>
+  -- <a href="tel:+14168581606">MyPhoneNumber</a>
 - You can also find me on:
-LinkedIn: https://www.linkedin.com/in/mahdimoradzadeh/
-GitHub: https://github.com/Mahdi-Moradzadeh
+  --[![LinkedIn](https://img.shields.io/badge/LinkedIn-MyProfile-blue.svg)](https://www.linkedin.com/in/mahdimoradzadeh/)
+  --[![GitHub followers](https://img.shields.io/github/followers/Mahdi-Moradzadeh.svg?style=social&label=Follow)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FMahdi-Moradzadeh)
 
 # Table of Contents
 - [Introduction to Mahdi Moradzadeh](#introduction-to-mahdi-moradzadeh)
